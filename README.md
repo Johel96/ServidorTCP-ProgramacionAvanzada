@@ -22,6 +22,7 @@ Tecnologías utilizadas
 * Validaciones GUI
 
 **Estructura del repositorio**
+```
 ServidorTCP-ProgramacionAvanzada/
 │
 ├── ProyectoServidor/        # Aplicación Servidor TCP (Administrador)
