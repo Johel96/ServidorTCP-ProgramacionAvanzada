@@ -1,0 +1,31 @@
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider / IntelliJ
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+*.pdb
+*.mdb
+
+# System files
+Thumbs.db
+desktop.ini
